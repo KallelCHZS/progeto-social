@@ -24,7 +24,13 @@ section#telefone{
     height: 627px;
     width: 311px;
     background: url('../imagens/frame-iphone.png') no-repeat;
-} 
-section#redes{
-    
+}
+iframe#tela
+{
+    position: relative;
+    top: 50.3%;
+    left: 50.4%;
+    transform: translate(-50%,-50%);
+    height: 469px;
+    width: 266px;
 }
