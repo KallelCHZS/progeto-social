@@ -25,4 +25,5 @@ a{
     font-weight: bold;
     font-size: 2em;
     color: white;
+    transform: translate(-50%,-50%);
 }
